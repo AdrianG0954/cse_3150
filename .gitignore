@@ -16,6 +16,7 @@
 
 # Debugger Files
 *.pdb
+*.dSYM
 
 # Compiled Dynamic libraries
 *.so
@@ -39,3 +40,6 @@
 
 # debug information files
 *.dwo
+
+# vs code generated files
+.vscode
