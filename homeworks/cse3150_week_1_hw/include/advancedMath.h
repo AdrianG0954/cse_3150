@@ -1,5 +1,5 @@
 #pragma once
 
 namespace AdvancedMath {
-    int square(int a);
+    int square(int n);
 }

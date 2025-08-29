@@ -3,8 +3,8 @@
 
 
 namespace AdvancedMath {
-    int square(int a) {
-        return MathUtils::multiply(a, a);
+    int square(int n) {
+        return MathUtils::multiply(n, n);
     }
 }
 
