@@ -43,3 +43,6 @@
 
 # vs code generated files
 .vscode
+
+# miscellaneous
+.DS_Store
